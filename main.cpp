@@ -6,7 +6,3 @@ int main()
     int ctr = 7;
 }
 
-void hello()
-{
-    std::cout << "Hello World!\n";
-}
