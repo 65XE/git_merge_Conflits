@@ -3,9 +3,8 @@
 int main()
 {
     std::cout << "Hello Worldline!\n";
-    int ctr = 32;
+    int ctr = 42;
 }
-
 void f()
 {
 }
