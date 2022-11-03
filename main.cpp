@@ -6,3 +6,6 @@ int main()
     int ctr = 7;
 }
 
+void f()
+{
+}
