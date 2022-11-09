@@ -2,9 +2,8 @@
 
 int main()
 {
-<<<<<<< HEAD
     std::cout << "Hello Worldline!\n";
-    int ctr = 15;
+    int ctr = 80;
 }
 void f()
 {
