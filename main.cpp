@@ -3,7 +3,7 @@
 int main()
 {
     std::cout << "Hello Worldline!\n";
-    int ctr = 0;
+    int ctr = 1;
 }
 void f()
 {
